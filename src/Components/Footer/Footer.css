@@ -1,0 +1,9 @@
+.copyright p{
+    /* font-family: cursive; */
+    margin-top: 2px;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    background: #000;
+    color: white;
+}
